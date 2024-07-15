@@ -4,15 +4,6 @@
 
 This project involves creating a feedback system where users can submit their feedback regarding answers they receive. The feedback includes a rating and a comment or suggestion. The feedback is stored in a CSV file, and statistics about the feedback can be calculated and displayed.
 
-## Table of Contents
-
-- [Files and Directories](#files-and-directories)
-- [Usage](#usage)
-- [Code Structure](#code-structure)
-- [Dependencies](#dependencies)
-- [Setup](#setup)
-- [Notes](#notes)
-- [Example Output](#example-output)
 
 ## Files and Directories
 
